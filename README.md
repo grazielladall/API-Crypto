@@ -6,4 +6,4 @@ Data pulled from [Coin Market API](https://coinmarketcap.com/api/documentation/v
 
 The objective is to analyse the value changes over time for the 10 most popular cryptocurrencies according to [NextAdvisor](https://time.com/nextadvisor/investing/cryptocurrency/types-of-cryptocurrency/) + Binance US for personal reasons.
 
-The entire project is still in progress, and you can find some of the steps and key findings [here](
+The entire project is still in progress, and you can find some of the steps and key findings [here](https://github.com/grazielladall/API-Crypto/blob/main/API%20TEST%20Notebook.ipynb)
